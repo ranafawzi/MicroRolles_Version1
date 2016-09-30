@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="hdpi"
+    format="7"
+    timestamp="1567681783875014"
+    token="-8927001578791462794" >
+
+    <task
+        name="javac"
+        duration="471" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="301" />
+    <task
+        name="verifier"
+        duration="137" />
+
+    <artifact
+        location="C:\Users\rana\Desktop\SS2016\MIS\Assingment\MicroRollsAlex\MicroRolls\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1567681783875014" >
+        <artifact
+            location="C:\Users\rana\Desktop\SS2016\MIS\Assingment\MicroRollsAlex\MicroRolls\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
